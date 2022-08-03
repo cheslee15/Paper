@@ -39,7 +39,19 @@
 
 
 ### 二.数字攻击
+1.Fooling automated surveillance cameras:adversarial patches to attack person detection | CVPR2019 |
+[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Thys_Fooling_Automated_Surveillance_Cameras_Adversarial_Patches_to_Attack_Person_Detection_CVPRW_2019_paper.pdf)
+[code](https://gitlab.com/EAVISE/adversarial-yolo)<br>
+
 
 ## Object detection adversarial robustness
 1.Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection | CVPR2022 |
 [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Segment_and_Complete_Defending_Object_Detectors_Against_Adversarial_Patch_Attacks_CVPR_2022_paper.pdf)<br>
+2.Towards adversarially robust object detection |  ICCV2019 |
+[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Towards_Adversarially_Robust_Object_Detection_ICCV_2019_paper.pdf)<br>
+3.A Self-supervised Approach for Adversarial Robustness | CVPR2020 |
+[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.pdf)
+[code](https://github.com/Muzammal-Naseer/NRP)<br>
+4.PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking |USENIX Security 2022|
+[paper](https://arxiv.org/pdf/2005.10884v5.pdf)
+[code](https://github.com/inspire-group/PatchGuard)
