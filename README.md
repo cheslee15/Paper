@@ -36,12 +36,27 @@
 [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Suryanto_DTA_Physical_Camouflage_Attacks_Using_Differentiable_Transformation_Network_CVPR_2022_paper.pdf)<br>
 12.Meta-Attack: Class-agnostic and Model-agnostic Physical Adversarial Attack | ICCV2021 |
 [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Feng_Meta-Attack_Class-Agnostic_and_Model-Agnostic_Physical_Adversarial_Attack_ICCV_2021_paper.pdf)<br>
+13.DPatch: An Adversarial Patch Attack on Object Detectors
+[paper](https://arxiv.org/pdf/1806.02299v4.pdf)
+[code](https://github.com/veralauee/DPatch)
+14.Naturalistic Physical Adversarial Patch for Object Detectors | ICCV2021 |
+[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_Naturalistic_Physical_Adversarial_Patch_for_Object_Detectors_ICCV_2021_paper.pdf)
+[code](https://github.com/aiiu-lab/naturalistic-adversarial-patch)
+15.Evaluating the Robustness of Semantic Segmentation for Autonomous Driving against Real-World Adversarial Patch Attacks | WACV2022 |
+[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Nesti_Evaluating_the_Robustness_of_Semantic_Segmentation_for_Autonomous_Driving_Against_WACV_2022_paper.pdf)
+16.Perceptual-Sensitive GAN for Generating Adversarial Patches | AAAI2019 |
+17.
+
 
 
 ### 二.数字攻击
 1.Fooling automated surveillance cameras:adversarial patches to attack person detection | CVPR2019 |
 [paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Thys_Fooling_Automated_Surveillance_Cameras_Adversarial_Patches_to_Attack_Person_Detection_CVPRW_2019_paper.pdf)
 [code](https://gitlab.com/EAVISE/adversarial-yolo)<br>
+2. Fooling detection alone is not enough: Adversarial attack against multiple object tracking | ICLR2020 |
+[paper](https://par.nsf.gov/servlets/purl/10197165)
+3.Parallel rectangle flip attack: A query-based black-box attack against object detection | ICCV2021 |
+[code](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Parallel_Rectangle_Flip_Attack_A_Query-Based_Black-Box_Attack_Against_Object_ICCV_2021_paper.pdf)
 
 
 ## Object detection adversarial robustness
@@ -55,3 +70,13 @@
 4.PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking |USENIX Security 2022|
 [paper](https://arxiv.org/pdf/2005.10884v5.pdf)
 [code](https://github.com/inspire-group/PatchGuard)
+5.Certified Defenses for Adversarial Patches
+[paper](https://openreview.net/pdf?id=HyeaSkrYPH)
+[code](https://github.com/Ping-C/certifiedpatchdefense)
+6.ScaleCert: Scalable Certified Defense against Adversarial Patches with Sparse Superficial Layers | Neurips2021 |
+[paper](https://proceedings.neurips.cc/paper/2021/file/ed519c02f134f2cdd836cba387b6a3c8-Paper.pdf)
+7.PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier
+[paper](https://www.usenix.org/system/files/sec22fall_xiang.pdf)
+8.Role of Spatial Context in Adversarial Robustness for Object Detection | CVPR2020 |
+[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w47/Saha_Role_of_Spatial_Context_in_Adversarial_Robustness_for_Object_Detection_CVPRW_2020_paper.pdf)
+
