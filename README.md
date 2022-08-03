@@ -23,7 +23,7 @@
 [code](https://github.com/RjDuan/Advlight)<br>
 6. ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector [paper](https://arxiv.org/pdf/1804.05810.pdf)<br>
 7. Universal Physical Camouflage Attacks on Object Detectors  | CVPR2022 |
-[paper](Universal Physical Camouflage Attacks on Object Detectors)<br>
+[paper]([Universal Physical Camouflage Attacks on Object Detectors](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Universal_Physical_Camouflage_Attacks_on_Object_Detectors_CVPR_2020_paper.pdf))<br>
 8. Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon | CVPR2022 |
 [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_Shadows_Can_Be_Dangerous_Stealthy_and_Effective_Physical-World_Adversarial_Attack_CVPR_2022_paper.pdf) 
 [code](https://github.com/hncszyq/ShadowAttack)<br>
